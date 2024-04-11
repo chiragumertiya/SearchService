@@ -1,0 +1,11 @@
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\bin\Release\net8.0\SearchService.Infrastructure.Data.deps.json
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\bin\Release\net8.0\SearchService.Infrastructure.Data.dll
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\bin\Release\net8.0\SearchService.Infrastructure.Data.pdb
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.AssemblyInfo.cs
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.dll
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\refint\SearchService.Infrastructure.Data.dll
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\SearchService.Infrastructure.Data.pdb
+C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\SearchService.Infrastructure.Data\obj\Release\net8.0\ref\SearchService.Infrastructure.Data.dll

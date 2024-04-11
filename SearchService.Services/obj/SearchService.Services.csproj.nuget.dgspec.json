@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services\\SearchService.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\SearchService.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\SearchService.Domain.Interface.csproj",
+        "projectName": "SearchService.Domain.Interface",
+        "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\SearchService.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj": {
+                "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\SearchService.Services.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\SearchService.Services.Interface.csproj",
+        "projectName": "SearchService.Services.Interface",
+        "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\SearchService.Services.Interface.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj": {
+                "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services\\SearchService.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services\\SearchService.Services.csproj",
+        "projectName": "SearchService.Services",
+        "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services\\SearchService.Services.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\SearchService.Domain.Interface.csproj": {
+                "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Domain.Interface\\SearchService.Domain.Interface.csproj"
+              },
+              "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\SearchService.Services.Interface.csproj": {
+                "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\SearchService.Services.Interface\\SearchService.Services.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj",
+        "projectName": "SearchService.Domain.Entities",
+        "projectPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\SearchService.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "C:\\CPU\\Work\\Practice\\Hackney_Test\\GitHub_Repo\\SearchService\\SearchService\\ServiceService.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

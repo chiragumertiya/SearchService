@@ -1,0 +1,12 @@
+﻿<div>
+  <h1>Search People</h1>
+  <input type="text" [(ngModel)]="searchName" placeholder="Enter search term" />
+  <button (click)="handleSearch()">Search</button>
+  <p *ngIf="errorMessage" class="error-message">{{ errorMessage }}</p>
+  <ul *ngIf="searchResults.length > 0" class="results-list">
+    <li *ngFor="let person of searchResults" class="person-item">
+      <span>{{ person.firstName }} {{ person.lastName }}</span> - <span>{{ person.email }}</span>
+    </li>
+  </ul>
+  <p *ngIf="searchResults.length === 0 && !errorMessage" class="no-results">No results found.</p>
+</div>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SearchService.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "SearchService.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SearchService.Domain.Interface.dll": {}
+        }
+      },
+      "SearchService.Domain.Entities/1.0.0": {
+        "runtime": {
+          "SearchService.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchService.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchService.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

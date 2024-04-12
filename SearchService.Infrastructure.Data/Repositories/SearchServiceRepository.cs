@@ -21,13 +21,10 @@ namespace SearchService.Infrastructure.Data.Repositories
 
         public async Task<List<TblPerson>> SearchPersonAsync(string searchTerm)
         {
-
-            //if (string.IsNullOrEmpty(searchTerm))
-            //    return BadRequest("Search term cannot be empty");
-
             var result = await _searchServiceDbContext.TblPeople
                 .Where(p => EF.Functions.Like(p.FirstName, $"%{searchTerm}%") ||
-                            EF.Functions.Like(p.LastName, $"%{searchTerm}%"))
+                            EF.Functions.Like(p.LastName, $"%{searchTerm}%") ||
+                            EF.Functions.Like(p.Email, $"%{searchTerm}%"))
                 .ToListAsync();
 
 

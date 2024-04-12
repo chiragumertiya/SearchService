@@ -1,0 +1,1 @@
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\SearchService.Web\obj\Debug\SearchService.Web.esproj.CoreCompileInputs.cache

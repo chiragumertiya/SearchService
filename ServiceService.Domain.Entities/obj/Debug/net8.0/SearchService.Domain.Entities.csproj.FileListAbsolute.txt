@@ -9,3 +9,15 @@ C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\ServiceService.Domain.Entitie
 C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\ServiceService.Domain.Entities\obj\Debug\net8.0\refint\SearchService.Domain.Entities.dll
 C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.pdb
 C:\CPU\Work\Practice\Hackney_Test\SearchServiceAPI\ServiceService.Domain.Entities\obj\Debug\net8.0\ref\SearchService.Domain.Entities.dll
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\bin\Debug\net8.0\SearchService.Domain.Entities.deps.json
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\bin\Debug\net8.0\SearchService.Domain.Entities.dll
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\bin\Debug\net8.0\SearchService.Domain.Entities.pdb
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.AssemblyInfoInputs.cache
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.AssemblyInfo.cs
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.sourcelink.json
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.dll
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\refint\SearchService.Domain.Entities.dll
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\SearchService.Domain.Entities.pdb
+C:\CPU\Work\Practice\Hackney_Test\GitHub_Repo\SearchService\SearchService\ServiceService.Domain.Entities\obj\Debug\net8.0\ref\SearchService.Domain.Entities.dll

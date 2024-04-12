@@ -41,7 +41,7 @@ ng serve
 Open your web browser and navigate to http://localhost:4200 to access the application.
 
 Database Backup
-A database backup file (SearchServiceDB.bak) is provided in the DB folder of this repository. You can use this backup to restore the database used by the application.
+Backup file (SearchServiceDB.bak) is provided in the DB folder of this repository. You can use this backup to restore the database used by the application.
 
 To restore the database:
 

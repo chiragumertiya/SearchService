@@ -54,6 +54,7 @@ Usage
 Enter a search term in the input field and click the 'Search' button to search for people.
 The application will display search results based on the entered search term.
 Technologies Used
- -.NET Core 8
- - Angular
- - EntityFramework Core
+
+ -- .NET Core 8
+ --  Angular
+ --  EntityFramework Core

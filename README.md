@@ -11,28 +11,32 @@ Angular CLI
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone <repository-url>
-cd <project-folder>
+> bash
+> Copy code
+> git clone <repository-url>
+> cd <project-folder>
+
 Backend Setup:
 
 Navigate to the backend directory.
 
 Run the following command to install dependencies and start the backend server:
 
-bash
-Copy code
-dotnet run
+> bash
+> Copy code
+> dotnet run
+
+
 Frontend Setup:
 
 Navigate to the frontend directory.
 
 Run the following command to install dependencies:
 
-bash
-Copy code
-npm install
+> bash
+> Copy code
+> npm install
+
 After installing dependencies, start the frontend server:
 
 bash
